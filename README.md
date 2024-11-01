@@ -1,4 +1,4 @@
-👋 ## **Welcome!** I'm Ahyan Kabir, a Biomedical Engineering student at the University of Waterloo.
+👋 **Welcome!** I'm Ahyan Kabir, a Biomedical Engineering student at the University of Waterloo.
 
 
 <!--
