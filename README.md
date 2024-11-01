@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 ## **Welcome!** I'm Ahyan Kabir, a Biomedical Engineering student at the University of Waterloo.
+
 
 <!--
 **ahkabir48/ahkabir48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
