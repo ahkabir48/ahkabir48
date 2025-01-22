@@ -1,7 +1,7 @@
 Hey! I'm Ahyan Kabir, originally from Calgary, Alberta. Now, I'm studying Biomedical Engineering at UWaterloo.
 
 <!-- 🌱 I’m currently learning: fundamentals of ml & datasci, network integrations and IoTs, and how to survive in university. -->
-📫 How to reach me: ahyan.kabir@uwaterloo.ca
+📫 How to reach me: ahkabir48@gmail.com
 
 <!--
 **ahkabir48/ahkabir48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
