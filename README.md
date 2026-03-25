@@ -1,6 +1,6 @@
 Hey! I'm Ahyan Kabir, currently studying Biomedical Engineering at UWaterloo.
 
-Love exploring tech in health :)
+exploring tech in health :)
 
 Originally from Calgary!
 
