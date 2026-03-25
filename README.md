@@ -1,6 +1,7 @@
 Hey! I'm Ahyan Kabir, currently studying Biomedical Engineering at UWaterloo.
 
 Love exploring tech in health :)
+
 Originally from Calgary!
 
 <!-- 🌱 I’m currently learning: fundamentals of ml & datasci, network integrations and IoTs, and how to survive in university. -->
